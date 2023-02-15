@@ -1,6 +1,7 @@
 # Multi-attribute-User-Authentication
 Multi-attribute User Authentication to Against Man-in-the-room Attack in Virtual Reality
 
+
 DIR TREE
 |-README.md
 |-SecurityExamination
@@ -16,5 +17,5 @@ DIR TREE
       |- ...
     |-result (example of experiments result in user study)
 |-Videos
-    |-Instructions.mp4 (demonstration instructions video of the authentication scheme)
+    |-Instructions.mp4 (demonstration instruction video of the authentication scheme)
     |-SecurityUserStudy (6 videos using in security user study, which mimic SS/MITR attacker in low/medium/high parameter schemes)
