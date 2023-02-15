@@ -1,0 +1,16 @@
+[ Authentication ]
+SecurityLevel : TrainingSession, Result : Success, FailNum : 0, SpendTime : 135.69
+[ Authentication ]
+SecurityLevel : TrainingSession, Result : Success, FailNum : 0, SpendTime : 33.79
+[ Setup ]
+SecurityLevel : Low, Password : { Drink : Cola, Pepsi, Wanglaoji;  }
+[ Authentication ]
+SecurityLevel : Low, Result : Success, FailNum : 0, SpendTime : 52.99
+[ Authentication ]
+SecurityLevel : Low, Result : Success, FailNum : 0, SpendTime : 36.21
+[ Authentication ]
+SecurityLevel : Low, Result : Success, FailNum : 0, SpendTime : 25.09
+[ Authentication ]
+SecurityLevel : Low, Result : Success, FailNum : 0, SpendTime : 21.14
+[ Authentication ]
+SecurityLevel : Low, Result : Success, FailNum : 0, SpendTime : 25.82

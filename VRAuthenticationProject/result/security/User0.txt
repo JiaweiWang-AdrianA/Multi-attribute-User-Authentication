@@ -1,0 +1,4 @@
+[ Authentication ]
+SecurityLevel : Medium, Result : Fail, FailNum : 3, SpendTime : 172.24
+[ Authentication ]
+SecurityLevel : High, Result : Fail, FailNum : 3, SpendTime : 134.27
