@@ -18,7 +18,7 @@ Multi-attribute User Authentication to Against Man-in-the-room Attack in Virtual
       |- ...
     |-result (example of experiments result in user study)
 |-Videos
-    |-Instructions.mp4 
+    |-Instruction.mp4 
         (demonstration instruction video of the authentication scheme)
     |-SecurityUserStudy 
         (6 videos using in security user study, which mimic 2 attacker in three parameter schemes)
